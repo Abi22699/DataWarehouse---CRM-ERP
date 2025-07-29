@@ -16,4 +16,4 @@ Silver Layer: This layer includes data cleansing, standardization, and normaliza
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 
-<img width="1544" height="912" alt="image" src="https://github.com/user-attachments/assets/c3a7694b-5e6d-427a-b569-83fe333cae76" />
+<img width="1544" height="850" alt="image" src="https://github.com/user-attachments/assets/c3a7694b-5e6d-427a-b569-83fe333cae76" />
